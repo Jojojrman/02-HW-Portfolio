@@ -1,0 +1,13 @@
+
+/*Contact form*/
+
+form {
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+}
+
+.form {
+    color: teal;
+    font-weight: bold;
+}

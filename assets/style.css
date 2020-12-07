@@ -1,0 +1,81 @@
+
+/*NavBar*/
+
+.headname {
+    font-family:'Dancing Script', cursive;
+    font-size: 30px;
+    font-weight: bold;
+    background-color: teal;
+    color: white;
+    padding: 5px;
+    padding-bottom: 7px;
+}
+
+/*NavBar Links*/
+
+.nav-link {
+    font-size: 20px;
+}
+
+.navbar-nav {
+    float: right;
+}
+
+.active {
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+/*Body image background*/
+
+body {
+    background-image: url("./images/background.jpg");
+}
+
+/*Sets grid system with no gutters*/
+
+.no-gutters {
+    margin-right: 30px;
+    margin-left: 30px;
+}
+.col, [class*="col-"] {
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+/*Footer*/
+
+footer {
+    background-color: rgb(102, 102, 102);
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
+}
+.footer {
+    text-align: center;
+    color: rgb(108, 116, 124);
+    padding-top: 10px;
+}
+
+/*About Me image and text.*/
+
+.about-info {
+    background-color: white;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+.about-image {
+    height: 150px;
+    width: 150px;
+    float: left;
+}
+
+/*H tag used throughout pages*/
+
+.port {
+    padding-left: 20px;
+    padding-top: 10px;
+    color: teal;
+}

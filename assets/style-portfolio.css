@@ -1,0 +1,16 @@
+
+/*Portfolio page*/
+
+.portfolio {
+    background-color: white;
+    margin-top: 20px;
+}
+
+.medialist {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+img {
+    padding-bottom: 20px;
+}
